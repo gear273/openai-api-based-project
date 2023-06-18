@@ -1,0 +1,41 @@
+What does HTML stand for?
+What is the purpose of HTML tags?
+What is the difference between HTML elements and HTML tags?
+How do you create a hyperlink in HTML?
+What is the role of the alt attribute in an HTML image tag?
+How do you create an unordered list in HTML?
+What is the purpose of the <head> section in an HTML document?
+How do you add a CSS stylesheet to an HTML document?
+What is the <div> element used for in HTML?
+How do you create a table in HTML?
+
+What is the most popular sport in the world?
+Who is the highest-paid athlete in the world?
+What is the difference between a tie and a draw in sports?
+What is the most-watched sporting event in the world?
+What is the difference between a foul and a violation in basketball?
+Who is the most successful Olympian of all time?
+What is the difference between a touchdown and a field goal in American football?
+Who won the most recent Super Bowl?
+What is the difference between a grand slam and a home run in baseball?
+Who is the current world champion in men's tennis?
+What are the most popular video game genres?
+How has the gaming industry evolved over the years?
+What are the benefits of playing video games?
+What are the most anticipated video game releases of the year?
+How do video games affect mental health?
+What are the most successful video game franchises of all time?
+How do video games impact social skills?
+What are the most popular gaming platforms?
+How do video games impact education?
+What are the most common gaming addiction symptoms?
+What is your favorite genre of music and why?
+Who is your favorite musician or band and why?
+How has music influenced your life?
+What is the most memorable concert you have attended and why?
+What is your favorite song and why?
+How has technology changed the way we listen to and create music?
+What role does music play in society?
+How has music evolved over time?
+What is the importance of music education in schools?
+How does music affect our emotions and mental health?
